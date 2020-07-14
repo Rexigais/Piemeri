@@ -1,0 +1,16 @@
+	/* Footer CSS*/
+	footer{
+		color:white;
+	width:100%;
+	background-color:#2DD3C7;}
+		/*Icon 1 size*/
+		#I_1{
+		font-size: 50px;
+		margin-right:20px;}
+		/*Icon 2 size*/
+		#I_2{
+		font-size:50px;}
+		/*Icon href color*/
+		#I_link{
+		color:white;
+		}

@@ -1,0 +1,2 @@
+Darba piemçrs iesâkts pavisam nesen kâ neliels mâjaslapas projekts paziòai, Praktiski viss dizaina ziòâ ir tikai paraugs,
+darbs ir pavisam minimâli iesâkts, bet funkcionâlâ koda daïa ir aptuveni pabeigta.

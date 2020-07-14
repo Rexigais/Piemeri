@@ -1,0 +1,36 @@
+/*Header CSS*/
+.M_Header{
+		position: sticky;
+		text-align: center;
+		background: #FFFFFF;
+		color: black;}
+/*Setting size and location for the whole header*/
+#Header{
+	padding-top: 20px;
+	width:90%;
+	margin:auto;
+}
+
+/*Title size and location*/
+h1{
+	padding:15px;
+	}
+/*Line width between header and navbar*/
+hr{
+	width:50%;}
+/* Navbar locations*/
+#Menu_Item{
+	display:inline-block;
+	opacity: .75;
+	}
+	/*Navbar design*/
+#Menu_Item a {
+	list-style:none;
+	color: black;
+	text-decoration: none;
+	transition: color .25s;}
+	/*Navbar hover color*/
+#Menu_Item a:hover{color:#FF75AA;}
+/*Navbar location*/
+.navbar{
+	margin-top:-16px;}
